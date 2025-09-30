@@ -21,9 +21,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="[https://skillicons.dev/icons?i=tailwind](https://skillicons.dev/icons?i=all)" height="60" alt="tailwindcss logo"  />
 </div>
 
 <br/>

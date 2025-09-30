@@ -5,23 +5,23 @@
 <br/>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=angular" height="60" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="angular logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="typescript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=scss" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="scss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=" height="60" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=" height="60" alt="php logo"  />
   <img width="12" />
 </div>
 

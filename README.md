@@ -19,6 +19,18 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="60" alt="scss logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="scss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="scss logo"  />
+  <img width="12" />
 </div>
 
 <br/>

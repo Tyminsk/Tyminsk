@@ -50,7 +50,7 @@
 <br/>
 
 <div>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyminsk&layout=compact&theme=one_dark_pro&cache_seconds=0" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyminsk&layout=compact&theme=github_dark&cache_seconds=0" />
   
 </div>
 

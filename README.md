@@ -46,7 +46,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E1306C&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
   </a>
 </div>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tyminsk&layout=compact&cache_seconds=0" />
 <br/>
 
 <div>

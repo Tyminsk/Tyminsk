@@ -1,5 +1,5 @@
 <h1>Olá! Eu sou o Victor Tyminski. 💀🤘</h1>
-<p><img src="https://skillicons.dev/icons?i=php" height="20" alt="php logo"  /> Estudante de Engenharia de Software e Desenvolvedor Web Back-end.  </p>
+<p><img src="https://skillicons.dev/icons?i=php" height="25" alt="php logo"  /> Estudante de Engenharia de Software e Desenvolvedor Web Back-end.  </p>
 <p> Tecnologias que estou familiarizado atualmente:</p>
 
 <br/>

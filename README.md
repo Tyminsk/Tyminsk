@@ -39,7 +39,7 @@
 
 <div>
   <a target="_blank" href="https://linkedin.com/in/victor-tyminski-rodrigues-218578258/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   <a target="_blank" href="mailto:vtyminskiwii2@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

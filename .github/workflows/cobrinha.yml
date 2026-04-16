@@ -15,10 +15,11 @@ jobs:
     steps:
       - name: Generate snake
         uses: Platane/snk@v3
-        with: github_user_name: Tyminsk
-  outputs: |
-    dist/github-contribution-grid-snake.svg
-    dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        with:
+          github_user_name: Tyminsk
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push snake
         uses: peaceiris/actions-gh-pages@v3

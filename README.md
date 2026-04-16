@@ -1,35 +1,35 @@
 <h1>Olá! Eu sou o Victor Tyminski. 💀🤘</h1>
-<p>🚀 Estudante de Engenharia de Software e Desenvolvedor Web Back-end.  </p>
-<p>🛠️ Tecnologias que estou familiarizado atualmente:</p>
+<p><img src="https://skillicons.dev/icons?i=php" height="10" alt="php logo"  /> Estudante de Engenharia de Software e Desenvolvedor Web Back-end.  </p>
+<p> Tecnologias que estou familiarizado atualmente:</p>
 
 <br/>
 
 <div>
-  <img src="https://skillicons.dev/icons?i=php" height="60" alt="angular logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="60" alt="php logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="typescript logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=javascript" height="60" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="60" alt="figma logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="60" alt="kotlin logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgres logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="scss logo"  />
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
   <img width="12" />
 </div>
 
